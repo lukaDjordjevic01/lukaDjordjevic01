@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋,
+      My name is Luka Djordjevic i am a student at Faculty Of Tehnical Sciences attendig a 4 year program called "Software engineering and information technologies".
+      I have worked on many projects which are not yet posted on my github profile because i was not asked to by my professors back then in my first year of studies.
+      I am aiming to post them here by the end of summer. 
+      Projects i have worked on that are here are gettin more and more serious. My team has recently finished a project where we were making a healthcare informational         system, as well as another project where we made a wpf app for toll station system.
 
 <!--
 **lukaDjordjevic01/lukaDjordjevic01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
