@@ -2,8 +2,8 @@
 My name is Luka Djordjevic i am a student at Faculty Of Tehnical Sciences attendig a 4 year program called "Software engineering and information technologies"
 
 ## Finished projects: 
- - [Cabby (client side)](https://github.com/CabbyTeam14/Cabby_IKS)
-- [Cabby (server side)](https://github.com/CabbyTeam14/Cabby_ISS)
+ - [Cabby (frontend)](https://github.com/CabbyTeam14/Cabby_IKS)
+- [Cabby (backend)](https://github.com/CabbyTeam14/Cabby_ISS)
 - [Cabby (mobile app)](https://github.com/CabbyTeam14/Cabby)
 - [Cabby (selenium testing)](https://github.com/CabbyTeam14/Cabby_Selenium)
 - [Healthcare System](https://github.com/kzi-nastava/usi-2022-team-2)
@@ -19,8 +19,9 @@ My name is Luka Djordjevic i am a student at Faculty Of Tehnical Sciences attend
 - [Reversi game (Othello)](https://github.com/lukaDjordjevic01/otelloProject)
 
 ## Currentky working on...
-- [Cyber Security Certificates (client side)](https://github.com/ThreeAmigosCoding/IB-Tim14-Frontend)
-- [Cyber Security Certificates (server side)](https://github.com/ThreeAmigosCoding/IB-Tim14-Backend)
+- [Cyber Security Certificates (frontend)](https://github.com/ThreeAmigosCoding/IB-Tim14-Frontend)
+- [Cyber Security Certificates (backend)](https://github.com/ThreeAmigosCoding/IB-Tim14-Backend)
+- [Hr platform project (backend, coding task for internship)](https://github.com/lukaDjordjevic01/IntenseHrPlatform)
 <!--
 **lukaDjordjevic01/lukaDjordjevic01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
