@@ -17,6 +17,9 @@ Here is a quick overview of projects and technologies that I have been working o
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="InfluxDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original-wordmark.svg" />
+<img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
+
 <br/>
 
 ## Finished projects ✅
@@ -34,6 +37,8 @@ Here is a quick overview of projects and technologies that I have been working o
 | Stock Prophet <br/> • [Backend](https://github.com/ThreeAmigosCoding/StockProphet) <br/> • [Frontend](https://github.com/ThreeAmigosCoding/StockProphetFrontend) | <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/> <img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" style="padding-right:10px;" /> |
 | Data Track (SCADA) <br/> • [Backend](https://github.com/ThreeAmigosCoding/DataTrack) <br/> • [Frontend](https://github.com/ThreeAmigosCoding/DataTrackFrontend) | <img align="left" alt="dotNet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" /> <img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" style="padding-right:10px;" /> |
 | [OpenGL 3D Gallery](https://github.com/lukaDjordjevic01/3D-Gallery-OpenGL) | <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" /> |
+| [HouseSync](https://github.com/lukaDjordjevic01/HouseSync) | <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /><img align="left" alt="InfluxDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original-wordmark.svg" /><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /><img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" /> |
+| [Image edge detection](https://github.com/lukaDjordjevic01/imageEdgeDetectionProject) | <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" /> |
 <!--
 **lukaDjordjevic01/lukaDjordjevic01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
